@@ -1,0 +1,58 @@
+meta {
+  -theme-display-name: "GitHub";
+  -theme-interface-style: dark;
+  -theme-vibrancy: none;
+  -theme-accent-color: false;
+}
+
+meta.window {
+  background-color: #0d1117;
+  border-color: #161b22;
+}
+
+meta.titlebar {
+  color: white;
+  background-color: #161b22;
+  border-color: #c9d1d9;
+}
+
+meta.titlebar.inactive {
+  color: #8b949e;
+  background-color: #161b22;
+  border-color: #c9d1d9;
+}
+
+/*TODO: VALUTARE LA PRESENZA DI QUESTA FEATURE*/
+meta.cursor {
+  background-color: #2e465c;
+}
+
+meta.gutter {
+  color: #f0f6fc4d;
+}
+
+declaration {
+  color: #6eb0ea;
+}
+
+tag {
+  color: #78db82;
+}
+
+tag.open.paired,
+tag.close,
+tag.open.single {
+  color: #fff;
+}
+
+style.selector {
+  color: #6eb0ea;
+}
+
+style.selector.element {
+  color: #78db82;
+}
+
+style.attribute {
+  color: ;
+}
