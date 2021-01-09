@@ -1,11 +1,12 @@
 {
   "identifier": "com.ludovicobesana.GitHub",
   "name": "GitHub Dark",
-  "organization": "ludovicobesana",
+  "organization": "Ludovico Besana",
   "description": "For all those who love GitHub Dark colors 🐙🐈",
   "version": "1.0",
   "categories": ["themes"],
   "homepage": "https://ludovicobesana.com",
+  "repository": "https://github.com/ludovicobesana/GitHub.novaextension",
   "bugs": "https://github.com/ludovicobesana/GitHub.novaextension/issues",
   "license": "MIT"
 }
